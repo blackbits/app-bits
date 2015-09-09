@@ -1,0 +1,6 @@
+name             'app-bits'
+maintainer       'BlackBits'
+maintainer_email 'anton@blackbits.pro'
+license          'All rights reserved'
+description      'provides app definition'
+version          '0.1.0'
