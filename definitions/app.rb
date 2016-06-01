@@ -18,6 +18,7 @@ define :app, owner: nil, paths: [:default] do
     owner username
     group username
     mode 00700
+    recursive true
   end
 
   paths.each do |dir|
